@@ -21,7 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Marshall-007&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You're welcome to buy me Coffee :)
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@DrMatrixx) 
 
   
