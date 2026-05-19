@@ -2,7 +2,7 @@
 🤖 Building AI Agents + working with LLMs<br>💻 Software Developer who loves shipping with Node.js, Java, and React<br>🧑‍💼 Freelance Web Developer & Software Engineer<br>👁️ Currently learning OCR + Image Segmentation<br>🦾 Interested in Robotics + AI Integration<br>🧭 Working my way toward becoming a Solutions Architect
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Soothe Sound Space ) 
 
 # 💻 Tech Stack:
